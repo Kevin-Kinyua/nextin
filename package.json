@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  },
+  "name": "nextin",
+  "version": "1.0.0",
+  "description": "Smart contract, NFT contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Kinyua/nextin.git"
+  },
+  "author": "Kevin Kinyua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Kinyua/nextin/issues"
+  },
+  "homepage": "https://github.com/Kevin-Kinyua/nextin#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  }
+}
